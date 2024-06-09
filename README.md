@@ -1,8 +1,8 @@
-Version : 1.0.1
+Version : 1.0.2
 
-Last Modified : October 3, 2023
+Last Modified : June 9, 2024
 
-Effective Date : October 3, 2023 
+Effective Date : June 9, 2024
 
 ---
 
@@ -51,12 +51,12 @@ Some of our games, websites, newsletters, and other means of communication enabl
 ### **DATA WE COLLECT AUTOMATICALLY:**
 
 - Data about your account and game progress
-- Your IP address and mobile device identifiers (such as your device ID, advertising ID, MAC address, IMEI)
-- Data about your device, such as device name and operating system, browser type and language
-- Data we collect with cookies and similar technologies (see more below)
-- General location data
-- Precise geo-location data (GPS, with your consent)
 - Data about your use of the game or website, such as gameplay data and your interactions with other players inside the game
+- Your IP address and mobile device identifiers (such as your device ID, advertising ID, MAC address, IMEI, with your consent)
+- Data about your device, such as device name and operating system, browser type and language (with your consent)
+- Data we collect with cookies and similar technologies (with your consent)
+- General location data (with your consent)
+- Precise geo-location data (GPS, with your consent)
 
 In most cases, we also create a Weyrdworks-specific ID for you when you play our games.
 
@@ -135,6 +135,28 @@ With your consent, we may process your data for additional purposes, such as usi
 
 ---
 
+# **HOW DO WE COLLECT YOUR DATA**
+
+Data collection happens for the reasons stated above in  WHY DO WE COLLECT YOUR DATA can happen in different ways:
+
+### **CREATING A WEYRDLETS ACCOUNT**
+
+- Weyrdlets accounts are created solely to make the game work
+- Birth YEAR is requested to be compliant with [Children's Online Privacy Protection Rule (COPPA)](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
+- Country is requested to ensure proper localization of certain features
+- Email is requested to enable authentication of a user’s identity to our game services and account recovery. We take extensive precaution to ensure that all emails and passwords are securely encrypted in such a way that no developer or third party may see or decrypt the data.
+- Data collected via the Weyrdlets account are never shared with any third party partners.
+
+### **ANONYMOUS ANALYTICS & USAGE DATA**
+
+Like any services or product such as your phone or your gaming console, Weyrdworks may collect anonymous usage data with your consent. In all Weyrdworks games where data is collected, this consent is always requested at the beginning of your experience and can always be opted out from all our game’s general settings.
+
+- This data is anonymous and is never tied to any user account created
+- This data may be collected and processed through a third party partner
+- [See THE DATA WE COLLECT](https://www.notion.so/Weyrdworks-Privacy-Policy-b53f013b250146118d7d56091d35d520?pvs=21)
+
+---
+
 # **WHO CAN SEE YOUR DATA**
 
 Apart from Weyrdworks, your data can be accessed by others in the following situations:
@@ -152,7 +174,9 @@ Weyrdworks has partners to perform services for us. These partners process your 
 In order to combat fraud and illegal activity, we may exchange data with other companies and organizations and provide it to public authorities in response to lawful requests. We may also disclose your data based on your consent, to comply with the law or to protect the rights, property or safety of us, our players or others.
 
 ### **ADVERTISING AND SOCIAL MEDIA PARTNERS**
-
+<aside>
+💡 Applicable Games: WarPods, Monster Nest
+</aside>
 Some games include features from our partners, such as social media interaction tools and in-game advertising. A list of these partners is available at [http://weyrdworks.com/partner-policies/](https://weyrdworks.com/partner-policies/). These partners may access your data and operate under their own privacy policies. We encourage you to check their privacy policies to learn more about their data processing practices.
 
 ### **FINANCIAL ACTIVITY**
